@@ -12,7 +12,7 @@ github_repo: "https://github.com/lulongji/lulongji.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "在我们了解什么是生命之前，我们已将它消磨了一半。"
-sidebar-avatar: /img/about-LULONGJI-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-TIANFAN-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 

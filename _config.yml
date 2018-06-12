@@ -3,8 +3,8 @@ title: TIANFAN Blog
 SEOTitle: 田凡的博客 | TIANFAN Blog
 header-img: img/post-bg-rwd.jpg
 email: t_fan2008@163.com
-description: "田凡的博客, lulongji, 鲁龙基,tomcat,java ,spring ,linux "
-keyword: "田凡的博客, lulongji, 鲁龙基,tomcat,java ,spring ,linux "
+description: "田凡的博客, tianfan, 田凡,tomcat,java ,spring ,linux "
+keyword: "田凡的博客, tianfan, 田凡,tomcat,java ,spring ,linux "
 url: "http://lulongji.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lulongji/lulongji.github.io.git" # you code repository
